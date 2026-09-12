@@ -13,6 +13,13 @@ public class k{
 	public void test2() {
 		System.out.println("2");
 	}
+	
+	
+	public void test3() {
+		System.out.println("amarnathhhhhh");
+	}
+	
+	
 }
 
 
