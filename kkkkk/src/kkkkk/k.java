@@ -11,7 +11,7 @@ public class k{
 	
 
 	public void test2() {
-		System.out.println("2 k  amar  nath ");
+		System.out.println("2 k  amar  nath  ");
 	}
 }
 
