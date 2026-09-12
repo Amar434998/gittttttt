@@ -16,7 +16,7 @@ public class k{
 	
 	
 	public void test3() {
-		System.out.println("amarnathhhhhh");
+		System.out.println("ammuuur");
 	}
 	
 	
